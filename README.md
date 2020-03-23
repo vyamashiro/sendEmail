@@ -15,8 +15,7 @@
 
 <h2>Project setup</h2>
 <p>Install all the dependencies</p>
-<code>npm install</code>
-<br>
+<code>npm install</code><br>
 <p>Run the application</p>
 <code>node app</code>
 
